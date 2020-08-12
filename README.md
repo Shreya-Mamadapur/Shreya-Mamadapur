@@ -4,7 +4,7 @@
  
  🌱 I’m learning to code/script in C/C++, Matlab, Bash
  
- 💬 Ask me about Embedded Hardware designing
+ 💬 Ask me anything about Embedded Hardware designing
  
  😄 Pronouns: She/Her
  

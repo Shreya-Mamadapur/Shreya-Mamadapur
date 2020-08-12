@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- 🔭 I’m currently studying post-grad in Embedded Systems
+ 🔭 I’m Shreya, currently studying post-grad in Embedded Systems in LCIT.
  
- 🌱 I’m currently learning to code/script in C/C++, Matlab, Bash
+ 🌱 I’m learning to code/script in C/C++, Matlab, Bash
  
  💬 Ask me about Embedded Hardware designing
  

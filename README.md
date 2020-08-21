@@ -2,7 +2,7 @@
 
  🔭 I’m Shreya, currently studying post-grad in Embedded Systems at LCIT.
  
- 🌱 I’m learning to code/script in C/C++, Matlab, Bash
+ 🌱 I’m learning to code/script in C/C++, Matlab and Bash
  
  💬 Ask me anything about Embedded Hardware designing
  

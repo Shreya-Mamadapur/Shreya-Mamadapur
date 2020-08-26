@@ -10,4 +10,3 @@
  
  ⚡ Fun fact: I play TT and Badminton
  
- :princess:Insta: https://www.instagram.com/shreya_mamadapur/?hl=en

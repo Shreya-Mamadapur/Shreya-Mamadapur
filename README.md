@@ -4,9 +4,9 @@
  
  🌱 I’m learning to code/script in C/C++, Matlab and Bash
  
- 💬 Ask me anything about Embedded Hardware designing
+ 💬 We can talk about Embedded Hardware designing
  
  😄 Pronouns: She/Her
  
- ⚡ Fun fact: I play TT and Badminton
+ ⚡ Fun fact: I play TT and Badminton and I like to sing
  

@@ -1,10 +1,8 @@
 ### Hi there 👋
 
- 🔭 I’m Shreya, currently studying post-grad in Embedded Systems at LCIT.
+ 🔭 I’m Shreya, currently self-learning web development.
  
- 🌱 I’m learning to code/script in C/C++, Matlab and Bash
- 
- 💬 We can talk about Embedded Hardware designing
+ 💬 We can talk about front-end dvelopment.
  
  😄 Pronouns: She/Her
  
